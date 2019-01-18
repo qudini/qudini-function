@@ -1,5 +1,7 @@
 # Qudini Function Utilities
 
+[![CircleCI](https://circleci.com/gh/qudini/qudini-function.svg?style=svg)](https://circleci.com/gh/qudini/qudini-function)
+
 Utilities for functions; currently handles [thunking](https://en.wikipedia.org/wiki/Thunk) and
 [memoisation](https://en.wikipedia.org/wiki/Memoization):
 
