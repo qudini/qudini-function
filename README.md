@@ -2,6 +2,9 @@
 
 [![CircleCI](https://circleci.com/gh/qudini/qudini-function.svg?style=svg)](https://circleci.com/gh/qudini/qudini-function)
 
+__Deprecated__: Google Guava now supersedes all of the capabilities in this library, specifically in its
+`Suppliers.memoize*` methods. See [Guice's GitHub page](https://github.com/google/guava).
+
 Utilities for functions; currently handles [thunking](https://en.wikipedia.org/wiki/Thunk) and
 [memoisation](https://en.wikipedia.org/wiki/Memoization):
 
